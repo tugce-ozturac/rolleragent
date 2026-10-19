@@ -35,9 +35,3 @@ Proje, çoklu eğitim alanlarına kolayca uyarlanabilmesi için hiyerarşik bir 
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma Adımları
-
-### 1. Depoyu Klonlayın
-```bash
-git clone [https://github.com/KULLANICI_ADINIZ/rolleragent.git](https://github.com/KULLANICI_ADINIZ/rolleragent.git)
-cd rolleragent
